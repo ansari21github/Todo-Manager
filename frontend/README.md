@@ -51,7 +51,7 @@ Install my-project with npm
 ### Screenshots
 
 #### Landing Page - Desktop
-![Landing Page Desktop](screenshots/landing_page.png)
+![Screenshot 2024-11-18 122812](https://github.com/user-attachments/assets/74195945-a570-499f-aec9-c2243d14a219)
 
 #### Landing Page - Mobile
 ![Screenshot 2024-11-18 131252](https://github.com/user-attachments/assets/2389a63c-24b0-43d2-8928-8de62bf197c2)
