@@ -75,6 +75,7 @@ Install my-project with npm
 ![Screenshot 2024-11-18 123904](https://github.com/user-attachments/assets/64e6d057-674e-44c3-bf95-430c5ea80cb9)
 
 #### View Gist
+![Screenshot 2024-11-18 165724](https://github.com/user-attachments/assets/65bf4551-5e0e-4b9f-9cc1-ee9fc0c746c0)
 
 ## Deployment
 
