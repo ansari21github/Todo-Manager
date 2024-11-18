@@ -69,7 +69,7 @@ Install my-project with npm
 ![Screenshot 2024-11-18 123841](https://github.com/user-attachments/assets/a5a1179b-5c7f-4481-bbc3-7453d25c4455)
 
 #### Todo Page
-![Todo Page](screenshots/todo.png)
+![Screenshot 2024-11-18 123828](https://github.com/user-attachments/assets/7e2e7f03-e400-478b-9f0e-3273ba6b744e)
 
 #### Gist Modal
 ![Gist Modal](screenshots/gist.png)
