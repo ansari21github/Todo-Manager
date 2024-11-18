@@ -63,7 +63,7 @@ Install my-project with npm
 ![Screenshot 2024-11-18 122915](https://github.com/user-attachments/assets/9a0e6a89-dd01-4004-9ed8-f557322b009b)
 
 #### Project Page
-![Project Page](screenshots/project-page.png)
+![Screenshot 2024-11-18 131746](https://github.com/user-attachments/assets/23fd8a76-7660-4ec9-866d-25979e269480)
 
 #### Project Form
 ![Project Form](screenshots/project-form.png)
