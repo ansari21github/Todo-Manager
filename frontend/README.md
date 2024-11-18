@@ -105,8 +105,8 @@ PORT = "port"
 Hi! 👋 I'm [Md. Rashid Ansari], the developer of this project. I'm passionate about building efficient and scalable web applications.
 
 ### Contact Information
-- **GitHub**: [YourGitHubUsername](https://github.com/ansari21github)
-- **LinkedIn**: [Your LinkedIn Name](www.linkedin.com/in/rashid-ansari-b232aa273)
+- **GitHub**: https://github.com/ansari21github?tab=repositories
+- **LinkedIn**: www.linkedin.com/in/rashid-ansari-b232aa273
 - **Email**: mahilrashid09@gmail.com
 
 Feel free to reach out if you have any questions or suggestions regarding this project!
