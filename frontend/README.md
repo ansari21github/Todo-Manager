@@ -72,7 +72,7 @@ Install my-project with npm
 ![Screenshot 2024-11-18 123828](https://github.com/user-attachments/assets/7e2e7f03-e400-478b-9f0e-3273ba6b744e)
 
 #### Gist Modal
-![Gist Modal](screenshots/gist.png)
+![Screenshot 2024-11-18 123904](https://github.com/user-attachments/assets/64e6d057-674e-44c3-bf95-430c5ea80cb9)
 
 ## Deployment
 
