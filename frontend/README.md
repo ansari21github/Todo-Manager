@@ -60,7 +60,7 @@ Install my-project with npm
 ![Screenshot 2024-11-18 122904](https://github.com/user-attachments/assets/61539336-d798-4609-abcc-eaef6fab4fa6)
 
 #### Signup Page
-![Signup Page](screenshots/signup_page.png)
+![Screenshot 2024-11-18 122915](https://github.com/user-attachments/assets/9a0e6a89-dd01-4004-9ed8-f557322b009b)
 
 #### Project Page
 ![Project Page](screenshots/project-page.png)
