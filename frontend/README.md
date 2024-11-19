@@ -81,16 +81,6 @@ To deploy this project run
   npm run dev
 ```
 
-1.Create a .env.sample file in the root directory based on the provided .env.sample for reference.
-
-2.Add necessary environment variables to the .env.sample file.
-
-3.In .env of backend :-
-```sh
-MONGO_URI = "mongo_uri"
-PORT = "port"
-```
-
 ## Features
 
 - **Organize Projects**: Stay on top of your tasks with powerful project organization tools.
