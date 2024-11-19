@@ -41,11 +41,10 @@ Install my-project with npm
 ```
 
 ## Deployment Link
- ```sh
--[Frontend web] ([https://workable-webapp-2.netlify.app])
 
--[Backend Api] ([https://workable-webapp-backend.onrender.com])
-```
+ - **Frontend web**: https://todo-manager-21.netlify.app/
+
+- **Backend Api**: https://todozy-backend.onrender.com
 
     
 ### Screenshots
