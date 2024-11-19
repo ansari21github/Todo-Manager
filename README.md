@@ -41,11 +41,11 @@ Install my-project with npm
 ```
 
 ## Deployment Link
- ```sh
--*[Frontend web]*: https://todo-manager-21.netlify.app/
+ 
+- **Frontend web**: https://todo-manager-21.netlify.app/
 
--*[Backend Api]*: https://todozy-backend.onrender.com
-```
+- **Backend Api**: https://todozy-backend.onrender.com
+
 
     
 ### Screenshots
